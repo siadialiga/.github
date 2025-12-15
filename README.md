@@ -1,10 +1,10 @@
-# Siadialiga
+![SIADIALIGA](/images/dia.png)
 
 **Siadialiga** is an independent software development space where individual projects are built, tested, and refined.  
 It focuses on creating clean, modern, and sustainable software using up-to-date technologies.
 
 ## What I Work On
-- Web applications  
+- Web applications
 - Open-source projects  
 - Experimental and learning-driven software  
 - Performance, design, and user experience–focused development  
