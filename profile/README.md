@@ -1,12 +1,25 @@
-## Hi there 👋
+![SIADIALIGA](../images/dia.png)
 
-<!--
+**Siadialiga** is an independent software development space where individual projects are built, tested, and refined.  
+It focuses on creating clean, modern, and sustainable software using up-to-date technologies.
 
-**Here are some ideas to get you started:**
+## What I Work On
+- Web applications
+- Open-source projects  
+- Experimental and learning-driven software  
+- Performance, design, and user experience–focused development  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Philosophy
+- Clean and readable code  
+- Modern tech stack  
+- Continuous learning and improvement  
+- Simple solutions over unnecessary complexity  
+
+## Purpose
+To turn personal ideas into real projects,  
+contribute to the open-source ecosystem,  
+and build a solid foundation for future, larger-scale ideas.
+
+## Notes
+Siadialiga is an **individual initiative**, not a registered company.  
+All projects are developed and maintained independently.
