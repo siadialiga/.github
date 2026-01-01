@@ -1,4 +1,4 @@
-![SIADIALIGA](/images/dia.png)
+![SIADIALIGA](/images/siadialiga.png)
 
 **Siadialiga** is an independent software development space where individual projects are built, tested, and refined.  
 It focuses on creating clean, modern, and sustainable software using up-to-date technologies.
