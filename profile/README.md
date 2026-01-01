@@ -6,6 +6,6 @@
 It focuses on creating clean, modern, and sustainable software using up-to-date technologies.
 
 Siadialiga is an **individual initiative**, not a registered company.  
-All projects are developed and maintained by <a href="https://github.com/batuhaneroglu">Batuhan Eroglu</a>
+All projects are developed and maintained by <a href="https://github.com/batuhanneroglu">Batuhan Eroglu</a>
 
 </div>
